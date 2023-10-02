@@ -1,0 +1,5 @@
+IP: 158.160.69.237 ;
+name_taski: https://polariz.ddns.net ;
+name_kittygram: https://crycat.ddns.net ;
+login: android ;
+password: 1234567 ;
